@@ -1,0 +1,26 @@
+Document only setup steps that match the actual source code in the repository.
+
+Standard project structure may resemble:
+
+banking-application/
+├── README.md
+├── app/
+├── components/
+├── public/
+├── styles/
+├── screenshots/
+└── docs/
+
+Environment variables must never be committed.
+
+Use:
+
+.env.example
+
+for variable names without credentials.
+
+Example:
+
+PLAID_CLIENT_ID=
+PLAID_SECRET=
+SENTRY_DSN=
