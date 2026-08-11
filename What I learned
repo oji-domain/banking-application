@@ -1,0 +1,9 @@
+Document actual development lessons from rebuilding, testing, and deploying the project.
+
+Focus on:
+
+API integration
+Application architecture
+Monitoring
+Error handling
+Secure environment-variable management
